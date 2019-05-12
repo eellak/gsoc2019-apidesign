@@ -1,4 +1,4 @@
-# :rocket: Google Summer Of Code 2019 Project - API Design Tool
+# :rocket: GSoC 2019 Project - API Design Tool
 
 Welcome to the home repository of "API Design Tool".
 
