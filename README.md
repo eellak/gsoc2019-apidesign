@@ -14,7 +14,7 @@ A detailed timeline follows, organized by [GSoC timeline](https://developers.goo
 
 - __Student application work (Mar 25 - Apr 09)__
   
-  Get familiar with all the concepts of the project, read documentation and think about possible extensions. Some useful links follow:
+  Get familiar with all the concepts of the project, read documentation and think about possible extensions. Some useful links follow:	
   - [C#](https://www.tutorialspoint.com/csharp/)
   - [Github API](https://developer.github.com/v3/guides/getting-started/)
   - [Django](https://www.djangoproject.com/start/)
@@ -38,5 +38,5 @@ A detailed timeline follows, organized by [GSoC timeline](https://developers.goo
 
 ## People
 - Google Summer of Code 2019 Student: Panagiotis Bellonias ([0xp374](https://github.com/pb96))
-- Mentor: Nikos Bogdos ([bognick](https://github.com/asymeon))
+- Mentor: Nikos Bogdos ([bognick](https://github.com/bognick))
 - Mentor: Stamatia Gkozntari
