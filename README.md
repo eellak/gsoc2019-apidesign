@@ -2,7 +2,7 @@
 
 Welcome to the home repository of "API Design Tool".
 
-This project is implemented as a Google Summer of Code 2019 Project, under the auspices of Open Technologies Aliance - GFOSS and National Bank of Greece.
+This project is implemented as a Google Summer of Code 2019 Project, under the auspices of Open Technologies Aliance(GFOSS) and the National Bank of Greece.
 
 ## About the project
 
